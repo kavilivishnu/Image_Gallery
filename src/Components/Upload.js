@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import Loading from '../Componts/Loading';
+import Loading from '../Components/Loading';
 
 const Upload = () => {
     const [file, setFile] = useState(null);

@@ -1,8 +1,8 @@
 import React, { useState } from 'react';
-import MainPage from './Componts/MainPage';
-import Upload from './Componts/Upload';
-import Album from './Componts/Album';
-import Modal from './Componts/Modal';
+import MainPage from './Components/MainPage';
+import Upload from './Components/Upload';
+import Album from './Components/Album';
+import Modal from './Components/Modal';
 
 function ImageLayout({ handleLogout }) {
     const [selectedImg, setSelectedImg] = useState(null);
