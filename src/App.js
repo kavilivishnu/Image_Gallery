@@ -1,9 +1,9 @@
 import React from "react";
 import ImageLayout from "./ImageLayout";
 import { BrowserRouter as Router, Route } from "react-router-dom";
-import Navigation from "./Authentification/Navigation";
-import LoginPage from "./Authentification/LoginPage";
-import LoginPage2 from "./Authentification/LoginPage2";
+import Navigation from "./Aunthentication/Navigation";
+import LoginPage from "./Aunthentication/LoginPage";
+import LoginPage2 from "./Aunthentication/LoginPage2";
 
 function App() {
   return (
