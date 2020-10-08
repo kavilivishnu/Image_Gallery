@@ -1,4 +1,4 @@
-Image editing and uploading App. The link for the App is provided below.
+Image editing and uploading App. Link for the App - 
 https://picedit.netlify.app
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
