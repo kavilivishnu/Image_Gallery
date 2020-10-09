@@ -1,5 +1,5 @@
 Image editing and uploading App. Link for the App - 
-https://picedit.netlify.app
+https://picsel.netlify.app
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
