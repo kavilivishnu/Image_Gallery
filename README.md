@@ -1,3 +1,5 @@
+Fully Responsive on all devices.
+
 Image editing and uploading App. Link for the App - 
 https://picsel.netlify.app
 
